@@ -1,0 +1,8 @@
+prefix=/home/wjb/catkin_ws/install
+
+Name: ar_demo
+Description: Description of ar_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
