@@ -1,2 +1,0 @@
-VINS-Mono/ar_demo:VINS-Mono/benchmark_publisher:VINS-Mono/camera_model:VINS-Mono/feature_tracker:VINS-Mono/pose_graph:VINS-Mono/vins_estimator
--DCATKIN_DEVEL_PREFIX=/home/wjb/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wjb/catkin_ws/install -G Unix Makefiles

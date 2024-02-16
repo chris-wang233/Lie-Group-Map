@@ -1,8 +1,0 @@
-prefix=/home/wjb/catkin_ws/install
-
-Name: benchmark_publisher
-Description: Description of benchmark_publisher
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
